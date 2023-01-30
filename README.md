@@ -6,4 +6,6 @@
 4 - Classes Playground
 5 - Collections Playground
 6 - Loops Playground
+7 - Optionals Playground
+8 - Type Casting Playground
 ```
